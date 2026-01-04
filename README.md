@@ -1,4 +1,4 @@
-# git-hibernate-scout
+ # git-hibernate-scout
 Daily small progress to build consistency and fundaments  
 # Git hibernate scout 
  this repo tracks my daily small progess 
@@ -14,3 +14,5 @@ Daily small progress to build consistency and fundaments
  clarity > complexity 
 
 So this is day 2 AND I LEARD THAT GITHub streak does not mean skill kind of ovious but that is what my real me tought or valued 
+ I missed on jan 3 it was because i didn't set the things up 
+ 
