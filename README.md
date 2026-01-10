@@ -19,3 +19,5 @@ today is jan 5 and i am trying to create a mark down file and connect to obsidan
 I sad that i missed a jan 6 but its cool i will have some thing for 7 i guess 
 I am sad that i missed a jan 6 but its cool i will have some thing for 7 i guess 
 I am sad that i missed a jan 6 but its cool i will have some thing for 7 i guess 
+I am sad that i missed a jan 6 but its cool i will have some thing for 7 i guess 
+I am sad that i missed a jan 6 but its cool i will have some thing for 7 i guess 
