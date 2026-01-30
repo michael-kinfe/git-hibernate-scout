@@ -3,7 +3,7 @@ Daily small progress to build consistency and fundaments
 # Git hibernate scout 
  this repo tracks my daily small progess 
  Goal: cnsitencey over instensty
- ## What i'm leanring 
+ # What i'm leanring 
  Git& Github basics 
  prigraming fundamentals
  Database management (SQL)
